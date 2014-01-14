@@ -1,10 +1,10 @@
-Title: The most interesting paper in the world.
+Title: This paper may be gound breaking but with the pace I'm writing it, it will never happen.
 
-Authors: Ana B
+Authors: Ana B, Anna Smith
 
 Date:
 
 Introduction:
 Some info goes here. Soon.
 
-
+Data: Data still to be gathered.
