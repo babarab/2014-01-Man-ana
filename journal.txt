@@ -1,10 +1,11 @@
-Title: The most interesting paper in the world.
+Title: It may be the most interesting paper in the world.
 
-Authors: Ana B
+Authors: John Smith, Ana B
 
 Date:
 
 Introduction:
 Some info goes here. Soon.
+
 
 
